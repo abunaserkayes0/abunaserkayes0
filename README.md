@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Abu+Naser+Kayes+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Passionate+about+creating+amazing+apps+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Abu+Naser+Kayes+%F0%9F%91%8B;ForntEnd+Developer+%F0%9F%9A%80;Passionate+about+creating+amazing+apps+%E2%9C%A8" alt="Typing SVG" />
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=abunaserkayes0&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
@@ -31,7 +31,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abunaserkayes0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abunaserkayes0&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=abunaserkayes0&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" /> -->
 
 <!-- GitHub Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abunaserkayes0&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="GitHub Activity Graph" />
@@ -140,7 +140,7 @@
 
 ## 🏆 **GitHub Achievements**
 
-![Pull Shark](https://github-profile-trophy.vercel.app/?username=abunaserkayes0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7&title=PullShark&title=Quickdraw&title=YOLO)
+<!-- ![Pull Shark](https://github-profile-trophy.vercel.app/?username=abunaserkayes0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7&title=PullShark&title=Quickdraw&title=YOLO) -->
 
 </div>
 
@@ -162,13 +162,13 @@
 ---
 
 <!-- Animated Snake Game -->
-<div align="center">
+<!-- <div align="center">
 
 ## 🐍 **Contribution Snake**
 
 ![Snake animation](https://github.com/abunaserkayes0/abunaserkayes0/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+</div> -->
 
 ---
 
@@ -204,7 +204,7 @@
 
 ### 💻 **"Code is like humor. When you have to explain it, it's bad."**
 
-⭐️ From [abunaserkayes0](https://github.com/abunaserkayes0)
+<!-- ⭐️ From [abunaserkayes0](https://github.com/abunaserkayes0) -->
 
 </div>
 
@@ -214,6 +214,6 @@
 
 ### 🎨 **Made with ❤️ by Abu Naser Kayes**
 
-![Visitor Count](https://profile-counter.glitch.me/abunaserkayes0/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/abunaserkayes0/count.svg) -->
 
 </div>
